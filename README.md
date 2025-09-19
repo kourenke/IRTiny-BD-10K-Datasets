@@ -14,17 +14,17 @@
 
 🌟 Overview
 
--- IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tiny bright/dark target detection tasks, comprising 10,000 high-quality infrared images. This dataset aims to advance research and development in infrared small target detection algorithms, particularly in complex backgrounds and multi-target scenarios.
+&emsp;&emsp IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tiny bright/dark target detection tasks, comprising 10,000 high-quality infrared images. This dataset aims to advance research and development in infrared small target detection algorithms, particularly in complex backgrounds and multi-target scenarios.
 
 ✨ Key Features
 
 🔍 Extremely Small Target Size
 
--- Average target size: 8-9 pixels
+&emsp;&emsp Average target size: 8-9 pixels
 
--- Typical long-range infrared target characteristics
+&emsp;&emsp Typical long-range infrared target characteristics
 
--- Small target-to-image ratio consistent with real scenarios
+&emsp;&emsp Small target-to-image ratio consistent with real scenarios
 
 📏 Standard Resolution Format
 
