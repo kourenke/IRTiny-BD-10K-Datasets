@@ -1,5 +1,3 @@
-IRTiny-BD-10K: Infrared Tiny Bright/Dark Target Dataset
-
 # IRTiny-BD-10K: Infrared Tiny Bright/Dark Target Dataset
 
 <p align="center">
@@ -138,7 +136,8 @@ For questions about this dataset, please contact:
 Email: [krkoptics@163.com]
 
 
-IRTiny-BD-10K: 红外微小亮暗目标检测数据集
+# IRTiny-BD-10K: 红外微小亮暗目标检测数据集
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/版本-1.0-blue" alt="版本">
