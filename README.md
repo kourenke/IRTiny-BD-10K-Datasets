@@ -75,8 +75,11 @@ This dataset is suitable for research in:
 📊 Dataset Statistics
 
 -- total_images = 10000
+
 -- resolution = (640, 512)
+
 -- targets_per_image = [1, 7]  # Range
+
 -- avg_target_size = (8, 9)    # Pixels
 
 📋 Usage Guidelines
@@ -204,8 +207,11 @@ If you use this dataset in your research, please cite our technical paper:
 📊 数据集统计
 
 -- total_images = 10000        # 总图像数量
+
 -- resolution = (640, 512)     # 分辨率
+
 -- targets_per_image = [1, 7]  # 每图像目标数量范围
+
 -- avg_target_size = (8, 9)    # 平均目标尺寸(像素)
 
 📋 使用说明
