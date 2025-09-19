@@ -20,7 +20,7 @@ IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tin
 
 🔍 Extremely Small Target Size
 
-Average target size: 8-9 pixels
+--Average target size: 8-9 pixels
 
 Typical long-range infrared target characteristics
 
