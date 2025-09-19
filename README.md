@@ -244,7 +244,7 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
   
   &emsp;&emsp; &emsp;&emsp; title = {IRTiny-BD-10K: 红外微小亮暗目标检测大规模数据集},
   
-  &emsp;&emsp; &emsp;&emsp; author = {作者姓名},
+  &emsp;&emsp; &emsp;&emsp; author = {寇人可},
   
   &emsp;&emsp; &emsp;&emsp; journal = {期刊名称},
   
