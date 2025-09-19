@@ -1,4 +1,7 @@
 IRTiny-BD-10K: Infrared Tiny Bright/Dark Target Dataset
+
+# IRTiny-BD-10K: Infrared Tiny Bright/Dark Target Dataset
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
