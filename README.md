@@ -148,7 +148,7 @@ If you use this dataset in your research, please cite our technical paper:
 
 IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的大规模数据集，包含10,000张高质量红外图像。本数据集旨在推动红外微小目标检测算法的研究与发展，特别是在复杂背景和多目标场景下的性能。注：该数据集是通过“基于物理驱动高拟真红外弱小目标图像生成系统”构建。
 
-![logo](./System.png)
+![fig1](./System.png)
 
 ✨ 主要特点
 
@@ -159,6 +159,16 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 &emsp;&emsp;&emsp;&emsp;  · 具备远距红外微小目标的典型特征
 
 &emsp;&emsp;&emsp;&emsp;  · 目标在图像中的占比较小，符合真实远距探测场景
+
+![fig2](./目标面积 (像素).png)
+
+![fig3](./面积占比 (像素).png)
+
+![fig4](./长宽比.png)
+
+![fig5](./局部信噪比.png)
+
+![fig6](./全局信噪比.png)
 
 &emsp;&emsp;📏 标准分辨率格式
 
