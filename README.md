@@ -16,7 +16,7 @@
 
 IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tiny bright/dark target detection tasks, comprising 10,000 high-quality infrared images. This dataset aims to advance research and development in infrared small target detection algorithms, particularly in complex backgrounds and multi-target scenarios.
 
-✨ Key Features
+# ✨ Key Features
 
 &emsp;&emsp;🔍 Extremely Small Target Size
 
@@ -58,7 +58,7 @@ IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tin
 
 &emsp;&emsp;&emsp;&emsp;  · Significantly increased complexity
 
-📥 Download
+# 📥 Download
 ​​
 
 &emsp;&emsp;  Download Method​​: Baidu Netdisk
@@ -67,13 +67,13 @@ IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tin
 
 &emsp;&emsp;  · Extraction Code​​: as1j
 
-🎯 Applications
+# 🎯 Applications
 
 This dataset is suitable for research in:
 
 &emsp;&emsp;  Infrared small target detection
 
-📊 Dataset Statistics
+# 📊 Dataset Statistics
 
 &emsp;&emsp;  · total_images = 10000
 
@@ -83,7 +83,7 @@ This dataset is suitable for research in:
 
 &emsp;&emsp;  · avg_target_size = (8, 9)    # Pixels
 
-📋 Usage Guidelines
+# 📋 Usage Guidelines
 
 &emsp;&emsp;  · This dataset is intended for ​​academic research only​​
 
@@ -93,7 +93,7 @@ This dataset is suitable for research in:
 
 &emsp;&emsp;  · Not for commercial use without permission
 
-📚 Citation
+# 📚 Citation
 
 If you use this dataset in your research, please cite our technical paper:
 
@@ -110,11 +110,11 @@ If you use this dataset in your research, please cite our technical paper:
   &emsp;&emsp; &emsp;&emsp; note = {To be published}
 &emsp;&emsp; &emsp;&emsp; }
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 &emsp;&emsp;  This dataset was created through a combination of collected and simulated data. The creators are not responsible for any direct or indirect losses resulting from the use of this dataset.
 
-🤝 Contributing
+# 🤝 Contributing
 
 &emsp;&emsp;  We welcome contributions and suggestions! Please feel free to:
 
@@ -124,7 +124,7 @@ If you use this dataset in your research, please cite our technical paper:
 
 &emsp;&emsp;  Share your research results using this dataset
 
-📞 Contact
+# 📞 Contact
 
 &emsp;&emsp;  For questions about this dataset, please contact:
 
@@ -145,13 +145,13 @@ If you use this dataset in your research, please cite our technical paper:
 
 </p>
 
-🌟 概述
+# 🌟 概述
 
 IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的大规模数据集，包含10,000张高质量红外图像。本数据集旨在推动红外微小目标检测算法的研究与发展，特别是在复杂背景和多目标场景下的性能。注：该数据集是通过“基于物理驱动高拟真红外弱小目标图像生成系统”构建。
 
 ![fig1](./System.png)
 
-✨ 主要特点
+# ✨ 主要特点
 
 &emsp;&emsp;🔍 极小目标尺寸
 
@@ -203,7 +203,7 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 &emsp;&emsp;&emsp;&emsp;  · 极大增加了目标与背景的多样性和复杂性
 
-📥 数据集下载
+# 📥 数据集下载
 ​​
 
 &emsp;&emsp;  下载方式​​: 百度网盘
@@ -212,13 +212,13 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 &emsp;&emsp;  ​​· 提取码​​: as1j
 
-🎯 应用领域
+# 🎯 应用领域
 
 &emsp;&emsp;  本数据集适用于以下研究方向：
 
 &emsp;&emsp;  · 红外小目标检测
 
-📊 数据集统计
+# 📊 数据集统计
 
 &emsp;&emsp;  total_images = 10000        # 总图像数量
 
@@ -228,7 +228,7 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 &emsp;&emsp;  avg_target_size = (8, 9)    # 平均目标尺寸(像素)
 
-📋 使用说明
+# 📋 使用说明
 
 &emsp;&emsp;  · 本数据集仅供学术研究使用
 
@@ -238,7 +238,7 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 &emsp;&emsp;  · 未经许可不得用于商业用途
 
-📚 引用格式
+# 📚 引用格式
 
 &emsp;&emsp;  如果您在研究中使用了本数据集，请引用相关技术论文：
 
@@ -256,11 +256,11 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 &emsp;&emsp; &emsp;&emsp; }
 
-⚠️ 免责声明
+# ⚠️ 免责声明
 
 &emsp;&emsp;  本数据集通过采集和仿真相结合的方式制作，致力于提供高质量的研究数据。制作者不对使用本数据带来的任何直接或间接损失负责。
 
-🤝 贡献
+# 🤝 贡献
 
 &emsp;&emsp;  · 我们欢迎贡献和建议！请随时：
 
@@ -270,7 +270,7 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 &emsp;&emsp;  · 分享使用本数据集的研究成果
 
-📞 联系方式
+# 📞 联系方式
 
 &emsp;&emsp;  如有关于本数据集的问题，请联系：
 
