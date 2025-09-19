@@ -60,6 +60,7 @@ IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tin
 
 📥 Download
 ​​
+
 &emsp;&emsp;  Download Method​​: Baidu Netdisk
 
 &emsp;&emsp;  · ​​Link​​: https://pan.baidu.com/s/1rsxQbAnjj_vKS0Z58eDZ3Q
@@ -204,6 +205,7 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 📥 数据集下载
 ​​
+
 &emsp;&emsp;  下载方式​​: 百度网盘
 
 &emsp;&emsp;  · 链接​​: https://pan.baidu.com/s/1rsxQbAnjj_vKS0Z58eDZ3Q
