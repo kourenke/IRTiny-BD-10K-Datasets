@@ -70,7 +70,7 @@ IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tin
 &emsp;&emsp;  · Extraction Code​​: as1j
 
 # 📊 Performance Comparison
-The following table presents the quantitative results of 14 models on the SIRST dataset. The best performance for each metric is ​​bolded​​, and the second best is <u>underlined</u>.
+The following table presents the quantitative results of 14 models on the IRTiny-BD-10K dataset. 
 
 | No. | Model       | mIoU ↑  | F1 ↑    | PD ↑   | ROC-AUC ↑ | PR-AUC ↑ | AP ↑   |
 |----:|:------------|:-------:|:-------:|:------:|:---------:|:--------:|:------:|
@@ -90,6 +90,7 @@ The following table presents the quantitative results of 14 models on the SIRST 
 | 14  | SCTransNet  | 0.7409  | 0.8512  | 0.8364 | 0.9276    | 0.8433   | 0.8053 |
 
 Note:The mixed dataset SIRST3, consisting of SIRST, IRSTD-1K, and NUDT-SIRST, was used for pre training. Then, based on the pre trained model, the IRTiny-BD-10K constructed in this paper was subjected to secondary training.
+
 # 🎯 Applications
 
 This dataset is suitable for research in:
