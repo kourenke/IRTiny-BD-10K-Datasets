@@ -101,15 +101,22 @@ If you use this dataset in your research, please cite our technical paper:
 
 &emsp;&emsp; @article{IRTiny-BD-10K,
   
-  &emsp;&emsp; &emsp;&emsp; title = {IRTiny-BD-10K: A Large-Scale Dataset for Infrared Tiny Bright/Dark Target Detection},
+  &emsp;&emsp; &emsp;&emsp; title={Infrared small target segmentation networks: A survey},
  
-  &emsp;&emsp; &emsp;&emsp; author = {Author Names},
+  &emsp;&emsp; &emsp;&emsp; author={Kou, Renke and Wang, Chunping and Peng, Zhenming and Zhao, Zhihe and Chen, Yaohong and Han, Jinhui and Huang, Fuyu and Yu, Ying and Fu, Qiang},
  
-  &emsp;&emsp; &emsp;&emsp; journal = {Journal Name},
+  &emsp;&emsp; &emsp;&emsp; journal={Pattern recognition},
+
+  &emsp;&emsp; &emsp;&emsp; volume={143},
+  
+  &emsp;&emsp; &emsp;&emsp; pages={109788},
+  
+  &emsp;&emsp; &emsp;&emsp; year={2023},
+  
+  &emsp;&emsp; &emsp;&emsp; publisher={Elsevier}
  
-  &emsp;&emsp; &emsp;&emsp; year = {2025},
- 
-  &emsp;&emsp; &emsp;&emsp; note = {To be published}
+  &emsp;&emsp; &emsp;&emsp; note = {The paper has not been published yet. If using this dataset, please temporarily cite the reference}
+  
 &emsp;&emsp; &emsp;&emsp; }
 
 # ⚠️ Disclaimer
@@ -246,15 +253,21 @@ IRTiny-BD-10K 是一个专门为红外微小亮/暗目标检测任务构建的�
 
 &emsp;&emsp; @article{IRTiny-BD-10K,
   
-  &emsp;&emsp; &emsp;&emsp; title = {IRTiny-BD-10K: 红外微小亮暗目标检测大规模数据集},
+  &emsp;&emsp; &emsp;&emsp; title={Infrared small target segmentation networks: A survey},
+ 
+  &emsp;&emsp; &emsp;&emsp; author={Kou, Renke and Wang, Chunping and Peng, Zhenming and Zhao, Zhihe and Chen, Yaohong and Han, Jinhui and Huang, Fuyu and Yu, Ying and Fu, Qiang},
+ 
+  &emsp;&emsp; &emsp;&emsp; journal={Pattern recognition},
+
+  &emsp;&emsp; &emsp;&emsp; volume={143},
   
-  &emsp;&emsp; &emsp;&emsp; author = {寇人可},
+  &emsp;&emsp; &emsp;&emsp; pages={109788},
   
-  &emsp;&emsp; &emsp;&emsp; journal = {期刊名称},
+  &emsp;&emsp; &emsp;&emsp; year={2023},
   
-  &emsp;&emsp; &emsp;&emsp; year = {2025},
-  
-  &emsp;&emsp; &emsp;&emsp; note = {待发表}
+  &emsp;&emsp; &emsp;&emsp; publisher={Elsevier}
+ 
+  &emsp;&emsp; &emsp;&emsp; note = {论文暂时未发布，如使用该数据集，请暂时引用该文献}
 
 &emsp;&emsp; &emsp;&emsp; }
 
