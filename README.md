@@ -72,7 +72,7 @@ IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tin
 # 📊 Performance Comparison Table
 The following table presents the quantitative results of 14 models on the SIRST dataset. The best performance for each metric is ​​bolded​​, and the second best is <u>underlined</u>.
 
-No.	Models	mIoU	F1	PD	ROC-AUC	PR-AUC	PR-AP
+No. | Models | mIoU	| F1 | PD	| ROC-AUC	| PR-AUC | PR-AP
 
 1	ABCNet 0.7460	0.8545	0.8447	0.9327	0.8471	0.8093
 
