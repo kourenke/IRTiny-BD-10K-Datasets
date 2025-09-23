@@ -73,20 +73,35 @@ IRTiny-BD-10K is a large-scale dataset specifically constructed for infrared tin
 The following table presents the quantitative results of 14 models on the SIRST dataset. The best performance for each metric is ​​bolded​​, and the second best is <u>underlined</u>.
 
 No.	Models	mIoU	F1	PD	ROC-AUC	PR-AUC	PR-AP
+
 1	ABCNet 0.7460	0.8545	0.8447	0.9327	0.8471	0.8093
+
 2	AGPCNet 0.7190	0.8366	0.8563	0.9427	0.8306	0.7935
+
 3	DNANet 0.7455	0.8542	0.8730	0.9232	0.8369	0.7826
+
 4	FC3Net 0.6936	0.8191	0.8358	0.9437	0.8159	0.7825
+
 5	GEFPN 0.7193	0.8367	0.8483	0.9361	0.7964	0.7399
+
 6	GGLNet 0.7307	0.8444	0.8700	0.9896	0.8557	0.8139
+
 7	L2SKNet 0.7125	0.8321	0.8528	0.9163	0.8224	0.7849
+
 8	LCAENet 0.7320	0.8453	0.8429	0.9389	0.8530	0.8246
+
 9	LRNet 0.6976	0.8219	0.8560	0.9253	0.8048	0.7359
+
 10	LW_IRST 0.6567	0.7927	0.7902	0.9574	0.8062	0.7798
+
 11	MRF3Net 0.7339	0.8466	0.8760	0.9232	0.8353	0.7828
+
 12	MSHNet 0.7414	0.8515	0.8608	0.9591	0.8415	0.7540
+
 13	RDIAN 0.7154	0.8341	0.8414	0.9515	0.8464	0.8112
+
 14	SCTransNet 0.7409	0.8512	0.8364	0.9276	0.8433	0.8053
+
 
 # 🎯 Applications
 
